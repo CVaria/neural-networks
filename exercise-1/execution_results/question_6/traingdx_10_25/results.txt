@@ -1,0 +1,48 @@
+
+number_of_epochs =
+
+   150
+
+
+acc_val =
+
+    0.8037
+
+
+prec_val =
+
+    0.7273
+    1.0000
+    0.5714
+    0.7857
+    1.0000
+
+
+rec_val =
+
+    0.8000
+    0.4583
+    0.9412
+    0.8800
+    0.9355
+	
+	
+/*---------without validation set----------*/	
+max_accuracy =
+
+    0.9346
+
+
+Index_epoch =
+
+     2
+
+
+best_epoch =
+
+   131
+
+
+max_accuracy =
+
+    0.9346
